@@ -26,6 +26,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=PavanNimkar&show_icons=true&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
 
   </td>
+  </tr>
+  <tr>
   <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=PavanNimkar&theme=default_repocard&hide_border=false" alt="Github Streak" title="Github Streak"/> 
   </td>
