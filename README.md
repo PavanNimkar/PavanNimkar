@@ -20,10 +20,10 @@
 
 
 # 📊 GitHub Stats:
-<table align="center">
+<table align="center" width=100%>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=PavanNimkar&show_icons=true&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=PavanNimkar&show_icons=true&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
 
   </td>
   </tr>
