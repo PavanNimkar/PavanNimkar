@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-💻 Full-Stack Developer | Django Enthusiast | React Developer | STEM Trainer<br>✨ Deeply interested in Robotics, Machine Learning, and Deep Learning<br>🌱 Currently Learning: Advanced Django, React DRF patterns & Robotics<br>🚀 Working on Real World Project Ideas
+💻 Full-Stack Developer | Django Enthusiast | React Developer | STEM Trainer<br>✨ Deeply interested in Robotics, Machine Learning, and Deep Learning<br>🌱 Currently Learning: Advanced Django, React, DRF patterns & Robotics<br>🚀 Working on Real World Project Ideas
 
 
 # 💻 Tech Stack:
