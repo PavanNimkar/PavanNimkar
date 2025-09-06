@@ -20,16 +20,7 @@
 
 
 # 📊 GitHub Stats:
-<table align="center" width=100%>
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=PavanNimkar&theme=default_repocard&hide_border=false" alt="GitHub Stats" title="Github Stats"/>  
-
-  </td>
-  </tr>
-  <tr>
-  <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=PavanNimkar&theme=default_repocard&hide_border=false" alt="Github Streak" title="Github Streak"/> 
-  </td>
-</tr>
-</table>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=PavanNimkar&theme=default_repocard&hide_border=false" alt="GitHub Stats" title="Github Stats"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=PavanNimkar&theme=default_repocard&hide_border=false" alt="Github Streak" title="Github Streak"/>
+</div>
