@@ -15,6 +15,7 @@
 
 ## 🚀 About Me
 
+Enthusiastic about integrating intelligence into both software and hardware systems.
 Full Stack Developer specializing in Django, Django REST APIs, and React-based frontends with hands-on experience in building and deploying **30+ web applications**. I combine web development expertise with IoT and robotics skills to create end-to-end systems, spanning from hardware to software.
 
 Currently pursuing B.Tech in Computer Science and Engineering at Sanjeevan Group of Institutions, Kolhapur.
