@@ -4,7 +4,7 @@
   <img width="2000" height="600" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/0a53197d-f7cd-4de9-80a8-4762700ef8cd" />
 </div>
 
-## Full Stack Developer | Django, React & PostgreSQL | Embedded Systems
+## Full Stack & IoT Developer | Django, React & PostgreSQL | Embedded Systems
 
 📍 Kolhapur, Maharashtra, India  
 📧 pavannnimkar@gmail.com  
