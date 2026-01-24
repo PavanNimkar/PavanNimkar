@@ -112,9 +112,12 @@ Sanjeevan Group of Institutions, Kolhapur | 2023 - Present
 
 ## 📊 GitHub Stats
 
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavanNimkar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanNimkar&layout=compact&theme=radical)
+<div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanNimkar&show_icons=true&theme=radical" alt="Pavan's GitHub Stats" width="100%" />
+</div>
+<div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanNimkar&layout=compact&theme=radical" alt="Pavan's GitHub Stats" width="100%" />
+</div>
 
 ---
 
