@@ -112,17 +112,21 @@ Sanjeevan Group of Institutions, Kolhapur | 2023 - Present
 
 ## 📊 GitHub Stats
 
-<div align="center" width="100%">
+<div align="center">
   <img 
-    src="https://github-readme-stats-self-iota-57.vercel.app/api?username=PavanNimkar&show_icons=true&theme=default&hide_border=true" 
-    width="90%" 
+    src="https://github-readme-stats-self-iota-57.vercel.app/api?username=PavanNimkar&show_icons=true&theme=default&bg_color=ffffff" 
+    width="100%"
+    style="border: 1px solid #e4e2e2; border-radius: 10px; padding: 10px;"
   />
 </div>
 
-<div align="center" width="100%">
+<hr style="border: 0.5px solid #e4e2e2; margin: 30px 0;" />
+
+<div align="center">
   <img 
-    src="https://github-readme-stats-self-iota-57.vercel.app/api/top-langs/?username=PavanNimkar&layout=compact&theme=default&hide_border=true" 
-    width="90%" 
+    src="https://github-readme-stats-self-iota-57.vercel.app/api/top-langs/?username=PavanNimkar&layout=compact&theme=default&bg_color=ffffff" 
+    width="100%"
+    style="border: 1px solid #e4e2e2; border-radius: 10px; padding: 10px;"
   />
 </div>
 
